@@ -2,7 +2,7 @@ This program is a very simplified version of Excel.
 
 Running this program will display a menu with options to modify a spreadsheet filled with information from a made up textfile.
 
-It written in C.
+It written in C within a Docker container. The code was compiled in a linux terminal using a C compiler downloaded from the docker container.
 
 There is a lack of error handling, examples of this include:
 
